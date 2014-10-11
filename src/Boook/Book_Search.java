@@ -16,7 +16,7 @@ public class Book_Search  extends ActionSupport{
 	private List<String[]> mylist = new ArrayList<String[]>();
 	private List<String[]> authorlist = new ArrayList<String[]>();
 	private List<String[]> brifeinfo = new ArrayList<String[]>();
-	private String add = "xixixixi";
+	private String add = "xixi";
     
 	public String execute(){
 		 String []tempstring = new String[6];

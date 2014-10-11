@@ -7,6 +7,7 @@ import java.sql.Statement;
 
 public class Book_Delete {
 	private String bisbn;
+	private String add = "hehe";
 	
 	public String execute(){
 		Connection fuck = null;  //创建用于连接数据库的Connection对象 

@@ -20,7 +20,7 @@ public class Book_Add extends ActionSupport{
 	private String publishdate;
 	private String price;
 	private String temp = "0";
-	private String add = "haha";
+	private String add = "hahahaha";
 	
 	public String execute(){
    	 Connection qushi = null;
